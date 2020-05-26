@@ -7,3 +7,4 @@ else
   echo "Found deno installation. Skipping install."
 fi
 
+deno run log.ts
